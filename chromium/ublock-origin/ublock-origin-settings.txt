@@ -1,9 +1,8 @@
 {
-  "timeStamp": 1649532902318,
-  "version": "1.42.4",
+  "timeStamp": 1650228832644,
+  "version": "1.42.2",
   "userSettings": {
     "advancedUserEnabled": true,
-    "uiTheme": "dark",
     "importedLists": [],
     "popupPanelSections": 63,
     "suspendUntilListsAreLoaded": true,
@@ -48,6 +47,7 @@
     "GRC-0",
     "HUN-0",
     "IDN-0",
+    "IND-0",
     "IRN-0",
     "ISL-0",
     "ISR-0",
